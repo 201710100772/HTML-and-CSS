@@ -1,5 +1,6 @@
 //program no.1
 //learning about git
+//git prog1
 #include<stdio.h>
 void main()
 {
