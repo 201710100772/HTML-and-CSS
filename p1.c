@@ -6,7 +6,7 @@ void main()
 {
 int d,fc;
 char tv;
-printf("enter the distance travelled\n");
+printf("enter the distance travelled by the vehicle\n");
 scanf("%d",&d);
 printf("enter the type of vehicle\n");
 scanf(" %c",&tv);
