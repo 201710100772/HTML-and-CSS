@@ -9,6 +9,9 @@ char tv;
 printf("enter the distance travelled by the vehicle in kms\n");
 scanf("%d",&d);
 printf("enter the type of vehicle and their names\n");
+
+
+
 scanf(" %c",&tv);
 
 if(tv== 'M')
