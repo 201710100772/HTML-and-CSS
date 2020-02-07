@@ -1,0 +1,44 @@
+<html>
+<head>
+<body >
+
+<table align="center" border="2" bgcolor="red" cellpadding="10" cellspacing="5">
+<caption align="bottom">COOL TABLE</caption>
+<tr>
+<th bgcolor="#00ffff"> coloumn 1 header</th>
+<th bgcolor="#00ffff"> coloumn 2 header</th>
+<th bgcolor="#00ffff"> coloumn 3 header</th>
+<th bgcolor="#00ffff"> coloumn 4 header</th>
+</tr>
+
+<tr>
+<td bgcolor="#ffffff"> row1,col1</td>
+<td bgcolor="#ffffff" colspan="2">2 COL SPAN</td>
+<td bgcolor="#ffffff" rowspan="2">ROW SPAN</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#24fc03"> row1,col1</td>
+<td bgcolor="#24fc03" colspan="2">2 COL SPAN</td>
+</tr>
+<tr>
+<td bgcolor="#24fc03"> row1,col1</td>
+<td bgcolor="#24fc03"> row1,col1</td>
+<td bgcolor="#24fc03">2 COL SPAN</td>
+<td bgcolor="#24fc03" rowspan="2">ROW SPAN</td>
+</tr>
+<tr>
+<td bgcolor="#24fc03"> row1,col1</td>
+<td bgcolor="#24fc03"> row1,col1</td>
+<td bgcolor="#24fc03" >2 COL SPAN</td>
+</tr>
+
+<a href="www.gmail.com">click here</a>
+
+</html>
+
+
+
+
+
